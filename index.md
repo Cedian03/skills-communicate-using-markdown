@@ -4,6 +4,9 @@
 
 Underwhelming reality
 
+- [ ] Facts
+- [x] Delusions
+
 ```ascii
  ______
 < Moo! >
